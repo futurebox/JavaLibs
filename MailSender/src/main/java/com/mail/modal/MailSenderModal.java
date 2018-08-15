@@ -6,7 +6,7 @@ import java.io.Serializable;
  * 
  * 邮件发送结果回传数据
  * 
- * @author Henri
+ * @author futurebox
  *
  */
 public class MailSenderModal implements Serializable {
